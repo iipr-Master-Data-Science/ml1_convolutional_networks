@@ -148,3 +148,6 @@ rsconnect/
 
 .DS_Store
 train/*
+wheels/*
+cats_and_dogs_small/*
+bikes_and_scooters/*
